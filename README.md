@@ -16,7 +16,7 @@ I embarked on an exciting journey by studying Marketing Communication and IT at 
 
 ### Lexicon Frontend with React - a few assignments
 
-#### React
+#### React, TypeScript
 - [Radio app](https://github.com/kw222mi/exercise-react-radio)
 
 - [Todo list](https://github.com/kw222mi/exercise-react-todo-list)
@@ -25,7 +25,7 @@ I embarked on an exciting journey by studying Marketing Communication and IT at 
 
 - [Media player](https://github.com/kw222mi/exercise-react-media-player)
 
-#### Javascript CSS HTLM
+#### Javascript, CSS, HTLM
 
 - [Beer app](https://github.com/kw222mi/js-beer-wiki)
 
