@@ -17,25 +17,25 @@ I embarked on an exciting journey by studying Marketing Communication and IT at 
 ### Lexicon Frontend with React - a few assignments
 
 #### React
-[Radio app](https://github.com/kw222mi/exercise-react-radio)
+- [Radio app](https://github.com/kw222mi/exercise-react-radio)
 
-[Todo list](https://github.com/kw222mi/exercise-react-todo-list)
+- [Todo list](https://github.com/kw222mi/exercise-react-todo-list)
 
-[Movie app](https://github.com/kw222mi/exercise-react-movie-cards)
+- [Movie app](https://github.com/kw222mi/exercise-react-movie-cards)
 
-[Media player](https://github.com/kw222mi/exercise-react-media-player)
+- [Media player](https://github.com/kw222mi/exercise-react-media-player)
 
 #### Javascript CSS HTLM
 
-[Beer app](https://github.com/kw222mi/js-beer-wiki)
+- [Beer app](https://github.com/kw222mi/js-beer-wiki)
 
-[Starwars app](https://github.com/kw222mi/js-starwars-catalog)
+- [Starwars app](https://github.com/kw222mi/js-starwars-catalog)
 
-[Hangman](https://github.com/kw222mi/js-hangman)
+- [Hangman](https://github.com/kw222mi/js-hangman)
 
-[Todo list](https://github.com/kw222mi/js-todo-list)
+- [Todo list](https://github.com/kw222mi/js-todo-list)
 
-[Plant app](https://github.com/kw222mi/plannedPlanthood)
+- [Plant app](https://github.com/kw222mi/plannedPlanthood)
 
 
 
