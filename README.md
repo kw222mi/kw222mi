@@ -4,10 +4,11 @@ I embarked on an exciting journey by studying Marketing Communication and IT at 
 
 
 ###Projects
-PWD 
-CRUD
-API
-Sokoban - Group project in React
+
+- PWD 
+- CRUD
+- API
+- Sokoban - Group project in React
 
 
 
