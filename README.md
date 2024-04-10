@@ -5,10 +5,15 @@ I embarked on an exciting journey by studying Marketing Communication and IT at 
 
 ### Projects
 
-- PWD 
-- CRUD
-- API
-- Sokoban - Group project in React
+- [PWD](https://github.com/kw222mi/personal-web-desktop) - Personal Web Desktop application made with webcomponents in JavaScript.
+- [Sokoban](https://github.com/sockulags/Sokoban_React_TS) - Group project in React.
+
+  
+- [CRUD](https://github.com/kw222mi/CRUD) - Simple CRUD application in Express, NodeJS.
+- [API](https://github.com/kw222mi/API-fishingclub) - Rest-API for a fishing club.
+- [Oauth,graphQL](https://github.com/kw222mi/oauth-graphQL) - Application using OAuth and graphQL to collect information from GitLab account.
+
+
 
 
 
