@@ -14,7 +14,7 @@ I embarked on an exciting journey by studying Marketing Communication and IT at 
 - [Oauth,graphQL](https://github.com/kw222mi/oauth-graphQL) - Application using OAuth and graphQL to collect information from GitLab account.
 
 
-### Lexicon Frontend with React - a few assignments
+### Lexicon - Frontend with React - a few assignments
 
 #### React, TypeScript
 - [Radio app](https://github.com/kw222mi/exercise-react-radio)
